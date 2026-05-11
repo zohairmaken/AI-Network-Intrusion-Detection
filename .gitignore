@@ -54,6 +54,7 @@ visualizations/*.png
 # Report screenshots
 reports/screenshots/*.png
 reports/*.docx
+!reports/Information_Security_Project_Report.docx
 reports/*.pptx
 
 # OS
