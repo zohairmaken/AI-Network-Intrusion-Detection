@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+.env
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs (keep structure but ignore contents)
+logs/*.log
+logs/*.csv
+!logs/.gitkeep
+
+# Large datasets (add your own if needed)
+dataset/raw/*.csv
+dataset/processed/*.csv
+dataset/sample_packets/*.csv
+!dataset/**/.gitkeep
+
+# Trained model binaries
+models/*.pkl
+models/*.joblib
+!models/.gitkeep
+
+# Visualization outputs (regenerated on training)
+visualizations/*.png
+!visualizations/.gitkeep
+
+# Report screenshots
+reports/screenshots/*.png
+reports/*.docx
+reports/*.pptx
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Secrets / credentials
+*.env
+secrets.py
+credentials.json
