@@ -1,4 +1,5 @@
 # AI-Powered Network Intrusion Detection System using Machine Learning
+**Course Project: Information Security**
 ---
 
 ## 1. Abstract

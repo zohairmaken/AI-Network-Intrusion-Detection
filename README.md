@@ -210,7 +210,7 @@ MIT License — See [LICENSE](LICENSE) for details.
 ## 🎓 Academic Use
 
 This project is designed for:
-- University final-year project submission
+- University Information Security course project submission
 - Cybersecurity portfolio demonstration
 - SOC (Security Operations Center) simulation
 - ML in network security research
